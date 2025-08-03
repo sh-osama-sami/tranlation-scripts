@@ -86,4 +86,3 @@ if __name__ == "__main__":
     create_floating_window()
 
 
-# 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
